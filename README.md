@@ -6,7 +6,7 @@ Feel free to reach out to me here.
 [![Linkedin Badge](https://img.shields.io/badge/-TODO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nowhere/)](https://www.linkedin.com/in/nowhere/) 
 [![Gmail Badge](https://img.shields.io/badge/-woodaaron2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woodaaron2001@gmail.com)](mailto:woodaaron2001@gmail.com)
 
-#Technologies 💻
+# Technologies 💻
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
