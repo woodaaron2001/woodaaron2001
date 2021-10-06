@@ -3,7 +3,7 @@
 I am a 3rd year undergraduate Student at University college dublin, pursuing a degree in Computer Science. I am passionate about Computer Science, tech and programming.  
 Feel free to reach out to me here. 
   
-[![Linkedin Badge](https://img.shields.io/badge/-AaronWoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/woodaaron2001/)](https://www.linkedin.com/in/nowhere/) 
+[![Linkedin Badge](https://img.shields.io/badge/-AaronWood-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-wood-155503222/)](https://www.linkedin.com/in/aaron-wood-155503222/) 
 [![Gmail Badge](https://img.shields.io/badge/-woodaaron2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woodaaron2001@gmail.com)](mailto:woodaaron2001@gmail.com)
 
 # Technologies 💻
