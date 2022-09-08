@@ -2,8 +2,8 @@
 
 I am a 3rd year undergraduate Student at University college dublin, pursuing a degree in Computer Science. I am passionate about Computer Science, tech, programming and speed cubing.
 
-[Algorithm Buddy website](https://rubiks-cube-api.ew.r.appspot.com/) <br>
-Website designed in angular and deployed using GCP app engine.
+[Algorithm Buddy website](https://rubiks-cube-api.ew.r.appspot.com/): A site designed to help users study Rubiks Cube Orientations (OLL) and Permuations (PLL) with a built in timer according to stackmat rules <br>
+The website designed in angular and deployed using GCP app engine.
 Site retrieves data from an api which I have hosted on GCP cloud run with json data being stored in firestore. Image data for each algorithm is taken from a cloud bucket. [example request for JPERM algorithm](https://rest-api-z7cayewqka-uc.a.run.app/v1/algorithm/JPerm)
 
 Feel free to reach out to me here. 
