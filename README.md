@@ -3,7 +3,7 @@
 I am a 3rd year undergraduate Student at University college dublin, pursuing a degree in Computer Science. I am passionate about Computer Science, tech, programming and speed cubing. <br><br>
 
 
-[Algorithm Buddy website](https://rubiks-cube-api.ew.r.appspot.com/): A site designed to help users study Rubiks Cube Orientations (OLL) and Permuations (PLL) with a built in timer according to stackmat rules <br> 
+[Algorithm Buddy website](https://rubiks-cube-api.ew.r.appspot.com/): A site deployed on app engine designed to help users study Rubiks Cube Orientations (OLL) and Permuations (PLL) with a built in timer according to stackmat rules <br> 
 
 More information can be found in the readMe documentation for the [AngularApp]() and the [API]()  <br> <br>
 
