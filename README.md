@@ -5,7 +5,7 @@ I am a 4th year undergraduate Student at University college dublin, pursuing a d
 
 [Algorithm Buddy website](https://rubiks-cube-api.ew.r.appspot.com/): A site deployed on app engine designed to help users study Rubiks Cube Orientations (OLL) and Permuations (PLL) with a built in timer according to stackmat rules <br> 
 
-More information can be found in the readMe documentation for the [AngularApp]() and the [API]()  <br> <br>
+More information can be found in the readMe documentation for the [AngularApp]() and the [API](https://github.com/woodaaron2001/Rubiks-API)  <br> <br>
 
 
 Feel free to reach out to me here. 
